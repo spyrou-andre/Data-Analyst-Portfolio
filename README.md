@@ -1,6 +1,6 @@
 # Data-Analyst-Portfolio
 
-This repository contains my portfolio which is based on projects that I've completed for self learning and hobby purposes. The projects are selected based on topics that interest me in combination with skills that I want to develop. 
+This repository contains my portfolio which is based on projects that I've completed for self learning and hobby purposes. The projects are selected based on topics that interest me in combination with coding skills that I want to develop. 
 
 ## Projects
 ### [Housing Prices in Cyprus](https://github.com/spyrou-andre/Data-Analyst-Portfolio/blob/main/House-Prices/Jupyter_Notebook_Code.ipynb) 
